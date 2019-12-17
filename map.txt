@@ -1,0 +1,13 @@
+length 12 height 12
+xxxxxxxxxxxx
+x..........x
+x..........x
+x..........x
+x..........x
+x.x........x
+x..........x
+x..........x
+x..........x
+x.....x....x
+x..........x
+xxxxxxxxxxxx
